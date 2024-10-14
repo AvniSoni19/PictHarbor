@@ -9,3 +9,4 @@ Objective of the project :
 3. Enhanced User Engagement
 4. Innovation in Entertainment Technology
 5. Scalability and Future Readiness
+![image](https://github.com/AvniSoni19/PictHarbor/assets/80664904/50e71e7a-d3ed-4e22-ab60-67e8b25b9b95)
